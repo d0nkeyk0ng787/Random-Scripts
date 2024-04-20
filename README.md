@@ -1,4 +1,4 @@
-# Random Bash Scripts - README
+# Random Scripts - README
 
 ### Aliases
 
