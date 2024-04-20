@@ -1,0 +1,2 @@
+# Simple One-Liner to setup Windows Terminal
+wt --title Notes ` -d "F:\Files\Notes-Storage" `; new-tab -p "Windows PowerShell" --title Code -d "F:\Files\Coding\Malventures" `; new-tab -p "Windows PowerShell" --title Working -d "F:\Files\Coding\Malventures"
